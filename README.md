@@ -1,2 +1,2 @@
 # themist
-Integrate purchased website themes into a rails project
+Integrate purchased website themes into a Rails project
